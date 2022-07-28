@@ -1,0 +1,41 @@
+{
+  "name": "MetaOS Labs Default",
+  "timestamp": "2022-07-28T17:57:01.868Z",
+  "version": {
+    "major": 4,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "MetaOS",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": "sophon_99237-1",
+      "base": "usop",
+      "display_exponent": 18,
+      "name": "Sophon",
+      "symbol": "SOP",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/2025.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "useth",
+      "display_exponent": 18,
+      "name": "sETH",
+      "symbol": "sETH",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "ususdc",
+      "display_exponent": 6,
+      "name": "sUSDC",
+      "symbol": "sUSDC",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    }
+  ]
+}
