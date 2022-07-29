@@ -15,26 +15,26 @@
   "tokens": [
     {
       "chainId": "sophon_99237-1",
-      "base": "usop",
+      "base": "umtos",
       "display_exponent": 18,
-      "name": "Sophon",
-      "symbol": "SOP",
+      "name": "MetaOS",
+      "symbol": "MTOS",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/2025.png"
     },
     {
       "chainId": "sophon_99237-1",
-      "base": "useth",
+      "base": "token/weth/4",
       "display_exponent": 18,
-      "name": "sETH",
-      "symbol": "sETH",
+      "name": "Wrapped Ether (Wormhole)",
+      "symbol": "WETH",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     },
     {
       "chainId": "sophon_99237-1",
-      "base": "ususdc",
+      "base": "token/usdc/2",
       "display_exponent": 6,
-      "name": "sUSDC",
-      "symbol": "sUSDC",
+      "name": "USDC",
+      "symbol": "usdc",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
     }
   ]
