@@ -15,6 +15,14 @@
   "tokens": [
     {
       "chainId": "sophon_99237-1",
+      "base": "token/usdt/6",
+      "display_exponent": 6,
+      "name": "Tether USD (Wormhole)",
+      "symbol": "USDT",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
       "base": "token/tt1/22",
       "display_exponent": 18,
       "display": "token/tt1",
