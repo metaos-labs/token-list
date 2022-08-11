@@ -1,0 +1,41 @@
+{
+  "name": "MetaOS Labs Extended",
+  "timestamp": "2022-08-10T17:57:01.868Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://app.metaos.im/logo64.png",
+  "keywords": [
+    "MetaOS",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/shib/12",
+      "display_exponent": 18,
+      "name": "shib",
+      "symbol": "shib",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/theta/14",
+      "display_exponent": 18,
+      "name": "theta",
+      "symbol": "theta",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/cro/18",
+      "display_exponent": 18,
+      "name": "Cronos Coin",
+      "symbol": "CRO",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
+    }
+  ]
+}
