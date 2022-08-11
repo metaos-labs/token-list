@@ -1,0 +1,35 @@
+{
+  "name": "MetaOS Labs Test",
+  "timestamp": "2022-08-10T17:57:01.868Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://app.metaos.im/logo192.png",
+  "keywords": [
+    "MetaOS",
+    "test"
+  ],
+  "tokens": [
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/tt1/22",
+      "display_exponent": 18,
+      "display": "token/tt1",
+      "name": "TT1",
+      "symbol": "TT1",
+      "logo_uri": ""
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/tt2/23",
+      "display_exponent": 18,
+      "display": "token/tt2",
+      "name": "TT2",
+      "symbol": "TT2",
+      "logo_uri": ""
+    }
+  ]
+}
