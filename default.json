@@ -72,6 +72,15 @@
       "name": "matic",
       "symbol": "matic",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/eth/19",
+      "display": "token/eth",
+      "name": "Weth",
+      "symbol": "eth",
+      "display_exponent": 18,
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     }
   ]
 }
