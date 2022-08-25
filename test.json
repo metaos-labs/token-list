@@ -15,29 +15,30 @@
   "tokens": [
     {
       "chainId": "sophon_99237-1",
-      "base": "token/usdt/6",
-      "display_exponent": 6,
-      "name": "Tether USD (Wormhole)",
-      "symbol": "USDT",
-      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      "base": "token/xcn/17",
+      "display_exponent": 18,
+      "display": "token/xcn",
+      "name": "XCN",
+      "symbol": "XCN",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/18679.png"
     },
     {
       "chainId": "sophon_99237-1",
-      "base": "token/tt1/22",
+      "base": "token/ape/18",
       "display_exponent": 18,
-      "display": "token/tt1",
-      "name": "TT1",
-      "symbol": "TT1",
-      "logo_uri": ""
+      "display": "token/ape",
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png"
     },
     {
       "chainId": "sophon_99237-1",
-      "base": "token/tt2/23",
+      "base": "token/sand/20",
       "display_exponent": 18,
-      "display": "token/tt2",
-      "name": "TT2",
-      "symbol": "TT2",
-      "logo_uri": ""
+      "display": "token/sand",
+      "name": "SAND",
+      "symbol": "SAND",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
     }
   ]
 }

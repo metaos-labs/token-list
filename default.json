@@ -15,72 +15,21 @@
   "tokens": [
     {
       "chainId": "sophon_99237-1",
-      "base": "token/wbtc/5",
+      "base": "token/wbtc/9",
       "display_exponent": 8,
-      "name": "Wrapped BTC (Wormhole)",
+      "display": "token/wbtc",
+      "name": "Wrapped BTC",
       "symbol": "WBTC",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
     },
     {
       "chainId": "sophon_99237-1",
-      "base": "token/usdt/6",
+      "base": "token/usdt/1",
       "display_exponent": 6,
-      "name": "Tether USD (Wormhole)",
+      "display": "token/usdt",
+      "name": "Tether USD",
       "symbol": "USDT",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
-    },
-    {
-      "chainId": "sophon_99237-1",
-      "base": "token/uni/16",
-      "display_exponent": 18,
-      "display": "token/uni",
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
-    },
-    {
-      "chainId": "sophon_99237-1",
-      "base": "token/dai/13",
-      "display_exponent": 18,
-      "name": "dai",
-      "symbol": "dai",
-      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
-    },
-    {
-      "chainId": "sophon_99237-1",
-      "base": "token/bnb/9",
-      "display_exponent": 18,
-      "display": "token/bnb",
-      "name": "bnb",
-      "symbol": "bnb",
-      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
-    },
-    {
-      "chainId": "sophon_99237-1",
-      "base": "token/link/17",
-      "display_exponent": 18,
-      "display": "token/link",
-      "name": "ChainLink Token",
-      "symbol": "LINK",
-      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
-    },
-    {
-      "chainId": "sophon_99237-1",
-      "base": "token/matic/11",
-      "display_exponent": 18,
-      "display": "token/matic",
-      "name": "matic",
-      "symbol": "matic",
-      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
-    },
-    {
-      "chainId": "sophon_99237-1",
-      "base": "token/eth/19",
-      "display": "token/eth",
-      "name": "Weth",
-      "symbol": "eth",
-      "display_exponent": 18,
-      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
     }
   ]
 }

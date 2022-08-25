@@ -15,27 +15,120 @@
   "tokens": [
     {
       "chainId": "sophon_99237-1",
-      "base": "token/shib/12",
+      "base": "token/uni/15",
       "display_exponent": 18,
-      "name": "shib",
-      "symbol": "shib",
+      "display": "token/uni",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/dai/8",
+      "display_exponent": 18,
+      "display": "token/dai",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/bnb/3",
+      "display_exponent": 18,
+      "display": "token/bnb",
+      "name": "BNB",
+      "symbol": "BNB",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/link/13",
+      "display_exponent": 18,
+      "display": "token/link",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/matic/7",
+      "display_exponent": 18,
+      "display": "token/matic",
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/shib/5",
+      "display_exponent": 18,
+      "display": "token/shib",
+      "name": "SHIBA INU",
+      "symbol": "SHIB",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
     },
     {
       "chainId": "sophon_99237-1",
-      "base": "token/theta/14",
+      "base": "token/theta/10",
       "display_exponent": 18,
-      "name": "theta",
-      "symbol": "theta",
+      "display": "token/theta",
+      "name": "Theta Token",
+      "symbol": "THETA",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png"
     },
     {
       "chainId": "sophon_99237-1",
-      "base": "token/cro/18",
-      "display_exponent": 18,
+      "base": "token/cro/14",
+      "display_exponent": 8,
+      "display": "token/cro",
       "name": "Cronos Coin",
       "symbol": "CRO",
       "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/leo/11",
+      "display_exponent": 18,
+      "display": "token/leo",
+      "name": "Bitfinex LEO Token",
+      "symbol": "LEO",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/19469.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/okb/12",
+      "display_exponent": 18,
+      "display": "token/okb",
+      "name": "OKB",
+      "symbol": "OKB",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/ven/16",
+      "display_exponent": 18,
+      "display": "token/ven",
+      "name": "VeChain",
+      "symbol": "VEN",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/8908.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/wmana/19",
+      "display_exponent": 18,
+      "display": "token/wmana",
+      "name": "Wrapped Decentraland MANA",
+      "symbol": "wMANA",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
+    },
+    {
+      "chainId": "sophon_99237-1",
+      "base": "token/hex/4",
+      "display_exponent": 8,
+      "display": "token/hex",
+      "name": "HEX",
+      "symbol": "HEX",
+      "logo_uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/5015.png"
     }
   ]
 }
